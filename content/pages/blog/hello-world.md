@@ -1,7 +1,7 @@
 ---
 title: hello-world
 seo:
-  title: Blog
+  title: hello-world
   description: This is the blog page
   extra:
     - name: 'og:type'
