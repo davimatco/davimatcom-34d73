@@ -2,7 +2,7 @@
 title: hello-world
 seo:
   title: hello-world
-  description: This is the blog page
+  description: este es un nuevo blog 
   extra:
     - name: 'og:type'
       value: website
