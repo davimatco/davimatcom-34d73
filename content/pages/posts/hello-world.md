@@ -1,7 +1,7 @@
 ---
 title: hello world
 excerpt: >-
-  hola este es mi nuevo blog donde 
+  hola este es mi nuevo blog donde publico cosas de interes 
 date: '2019-03-27'
 thumb_img_path: images/7.jpg
 thumb_img_alt: Icelandic horses
