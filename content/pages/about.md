@@ -32,6 +32,6 @@ seo:
 layout: page
 ---
 
-**John Doe** is 
+**John Doe** is hola 
 
 
