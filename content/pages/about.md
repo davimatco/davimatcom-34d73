@@ -32,6 +32,6 @@ seo:
 layout: page
 ---
 
-**John Doe** is hola mi nombre es Mateo Acosta 
+**John Doe** is hola mi nombre es Mateo Acosta soy de Bogota
 
 
