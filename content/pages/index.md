@@ -7,11 +7,9 @@ sections:
     title: 'Hola, soy Mateo'
     content: >
       en esta pagina web podrás conocer un poco mas de mi y de mi trabajo, así
-      como también temas de interés en los cuales doy mi punto de vista.
-
-
-      si te interesa algo o quieres hablar conmigo puedes seguirme en mis redes
-      sociales o mandarme un mensaje 
+      como también temas de interés en los cuales doy mi punto de vista.si te
+      interesa algo o quieres hablar conmigo puedes seguirme en mis redes
+      sociales o mandarme un mensaje
   - section_id: about
     type: section_content
     title: About
