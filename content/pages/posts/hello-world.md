@@ -2,7 +2,7 @@
 title: hello world
 excerpt: >-
   hola este es mi nuevo blog donde publico cosas de interes 
-date: '2021-10-27'
+date: '2021-10-22'
 thumb_img_path: images/7.jpg
 thumb_img_alt: Icelandic horses
 content_img_path: images/7.jpg
