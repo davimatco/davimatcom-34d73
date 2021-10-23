@@ -1,5 +1,5 @@
 ---
-title: hello-worl
+title: hello-world
 seo:
   title: Blog
   description: This is the blog page
