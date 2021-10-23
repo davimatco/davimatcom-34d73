@@ -32,6 +32,6 @@ seo:
 layout: page
 ---
 
-hola mi nombre es Mateo Acosta soy de Bogota, Colombia actualmente soy estudiante de ingenieria mecatronica y tambien de programcion enfocada a datos y backend.
+ola mi nombre es Mateo Acosta soy de Bogota, Colombia actualmente soy estudiante de ingenieria mecatronica y tambien de programcion enfocada a datos y backend.
 
 
