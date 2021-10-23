@@ -2,7 +2,7 @@
     "title": "Stackbit Fresh Theme",
     "path_prefix": "/",
     "layout_style": "overflow",
-    "palette": "blue",
+    "palette": "red",
     "header": {
         "title": "davimatcom",
         "tagline": "David Mateo Acosta Moreno",
